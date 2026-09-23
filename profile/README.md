@@ -80,6 +80,18 @@ We help turn ideas into polished products — from early prototypes and core sys
 
 ## 🏆 Featured Work
 
+### 🎴 Hunter's Bar
+
+**Multiplayer Mobile Card Game — iOS & Android**
+
+A multiplayer card-game experience featuring role-based gameplay, strategy, bluffing and real-time match systems.
+
+`Unity` • `C#` • `Multiplayer` • `iOS` • `Android`
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-E50914?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/CipherCoders/hunters-bar-showcase)
+
+---
+
 ### 🎮 Unity Development Showcase
 
 A public showcase of **Cipher Coders' Unity game-development capabilities**, including gameplay programming, multiplayer systems, mobile development, UI systems, optimization and technical implementation.
