@@ -80,16 +80,30 @@ We help turn ideas into polished products — from early prototypes and core sys
 
 ## 🏆 Featured Work
 
-We are currently preparing selected **client-approved project case studies** for our GitHub portfolio.
+### 🎮 Unity Development Showcase
 
-Each case study will showcase:
+A public showcase of **Cipher Coders' Unity game-development capabilities**, including gameplay programming, multiplayer systems, mobile development, UI systems, optimization and technical implementation.
 
-**The Challenge → Our Solution → Key Features → Technology → Screenshots / Gameplay → Development Contribution**
+**Focus Areas**
 
-> Our goal is not simply to show code — we want to demonstrate the products, systems and experiences we build.
+`Unity` • `C#` • `Gameplay Systems` • `Multiplayer` • `Mobile` • `Optimization`
+
+[![View Showcase](https://img.shields.io/badge/VIEW_UNITY_SHOWCASE-E50914?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/CipherCoders/unity-development-showcase)
 
 ---
 
+### More Work Coming Soon
+
+We are building additional **company-owned demos and technical showcases** covering:
+
+- Multiplayer gameplay
+- Mobile game systems
+- AI & NPC systems
+- UI and inventory systems
+- Web and software development
+- AI-powered applications
+
+> Client-confidential projects and private source code are never published without permission.
 ## 🤝 Work With Cipher Coders
 
 Have a game, app, website, AI solution or custom software idea?
