@@ -1,19 +1,32 @@
 <div align="center">
 
-# Cipher Coders
+<p align="center">
+  <img src="./cipher-coders-logo.png" alt="Cipher Coders Logo" width="145">
+</p>
 
-### Building Games, Apps & Digital Experiences
+<h1 align="center">Cipher Coders</h1>
 
-**Game Development • Mobile Apps • Web Development • AI & Software Solutions**
+<h3 align="center">
+Building Games, Apps & Digital Experiences
+</h3>
+
+<p align="center">
+<strong>Game Development • Mobile Apps • Web Development • AI & Software Solutions</strong>
+</p>
+
+<p align="center">
+
+<a href="https://ciphercodersweb.com/">
+  <img src="https://img.shields.io/badge/VISIT_WEBSITE-E50914?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="mailto:cipher2020unity@gmail.com">
+  <img src="https://img.shields.io/badge/START_A_PROJECT-181717?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
 
 <br>
-
-[![Website](https://img.shields.io/badge/OUR_WEBSITE-CipherCoders-E50914?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ciphercodersweb.com/)
-[![Contact](https://img.shields.io/badge/START_A_PROJECT-Contact_Us-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cipher2020unity@gmail.com)
-
-</div>
-
----
 
 ## 🚀 About Cipher Coders
 
